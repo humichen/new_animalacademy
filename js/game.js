@@ -20,6 +20,13 @@ $(document).ready(function () {
         setTimeout(function () { $(".move3").css('transform', 'translate(0,5%)').css('transition', '.2s ease') }, 900);
         setTimeout(function () { $(".move3").css('transform', 'translate(0,0)').css('transition', '.2s ease') }, 1100);
     });
+    $(".specialrule").mouseover(function(){
+        setTimeout(function () { $(".move4").css('transform', 'translate(0,-5%)').css('transition', '.3s ease') }, 300);
+        setTimeout(function () { $(".move4").css('transform', 'translate(0,5%)').css('transition', '.2s ease') }, 500);
+        setTimeout(function () { $(".move4").css('transform', 'translate(0,-5%)').css('transition', '.2s ease') }, 700);
+        setTimeout(function () { $(".move4").css('transform', 'translate(0,5%)').css('transition', '.2s ease') }, 900);
+        setTimeout(function () { $(".move4").css('transform', 'translate(0,0)').css('transition', '.2s ease') }, 1100);
+    });
     if((window.screen.width>768 && window.screen.width>=window.screen.height) || window.screen.width<=425){
        $(window).scroll(function () {
         if ($(this).scrollTop() >= 10) {
