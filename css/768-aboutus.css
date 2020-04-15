@@ -70,7 +70,7 @@
 }
 .col-1 h2 {
     color: #4F4532;
-    font-size: 20px;
+    font-size: 14px;
     text-align: center;
     /* margin: 1; */
     padding: 10px;
@@ -80,7 +80,7 @@
 }
 .col-1 p {
     color: #4F4532;
-    font-size: 10px;
+    font-size: 12px;
     width: 150px;
     text-align: justify;
     line-height: 120%;
@@ -139,7 +139,7 @@
 }
 .col-2 h2 {
     color: #4F4532;
-    font-size: 20px;
+    font-size: 14px;
     text-align: center;
     /* margin: 1; */
     padding: 10px;
