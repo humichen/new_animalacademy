@@ -90,6 +90,9 @@
         align-items: center;
         flex-direction: column;
     }
+    .col-1 h2{
+        font-size: 14px;
+    }
     .text-1:hover .col-1 {
         top: 0;
         left: 0%;
@@ -97,7 +100,7 @@
     }
     .col-1 h2 {
         color: #4F4532;
-        font-size: 10px;
+        font-size: 14px;
         text-align: center;
         /* margin: 1; */
         padding: 10px;
