@@ -493,3 +493,10 @@ figure {
     }
 /* 黑幕小視窗結束 */
 /* setting頁面內容結束 */
+
+@media(max-width:1280px){
+    .setting-layout{
+        height: 100%;
+        width: 100%;
+    }
+}
