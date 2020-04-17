@@ -444,6 +444,7 @@ figure {
     padding: .5% 3%;
     border-radius:3px; 
     line-height: 130%;
+    text-align: justify;
 }
 
 .fmskill-word7{
