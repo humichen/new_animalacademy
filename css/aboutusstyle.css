@@ -43,6 +43,7 @@
     /* display: flex;
     flex-wrap: wrap; */
     transform: translate(0,0);
+    -webkit-transform: translate(0,0);
     width: 450px;
     height: 450px;
     background: #d9ecf1;
@@ -110,6 +111,7 @@
     /* display: flex;
     flex-wrap: wrap; */
     transform: translate(0,0);
+    -webkit-transform: translate(0,0);
     width: 450px;
     height: 450px;
     background: #e6dae9;
