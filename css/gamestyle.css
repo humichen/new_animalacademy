@@ -337,3 +337,11 @@ margin-left:5%;
 }
 
 /* game頁面內容結束 */
+@media (max-width:900px){
+    .story-word{
+        width: 75%;
+        height: 10em;
+        margin-left: 1em;
+        margin-top: 20px;
+    }
+}
