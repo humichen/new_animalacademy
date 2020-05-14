@@ -431,7 +431,7 @@ figure {
 }
 
 .fmskill img{
-    width: 30%;
+    width: 260px;
     height: 100%;
     margin: 0;
 } 
@@ -494,10 +494,16 @@ figure {
     }
 /* 黑幕小視窗結束 */
 /* setting頁面內容結束 */
-
 @media(max-width:1280px){
     .setting-layout{
         height: 100%;
         width: 100%;
     }
+}
+@media(max-width:1000px){
+    .fmskill img{
+        width: 250px;
+        height: 100%;
+        margin: 0;
+    } 
 }
