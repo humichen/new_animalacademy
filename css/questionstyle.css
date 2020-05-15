@@ -176,7 +176,7 @@ height: 40px;
 }
 
 .q4-layout img{
-    width: 30%;
+    width: 300px;
     height: 280px;
 }
 .q5{
@@ -211,7 +211,7 @@ height: 40px;
 
 .q5-layout img{
     width: 25%;
-    height:280px;
+    height: 280px;
 }
 
 .ans5:hover{
@@ -334,7 +334,8 @@ height: 40px;
         width: 95%;
     }
     .q4-layout img{
-        width:45% ;
+        width:200px ;
+        height: 200px;
     }
     .spinner{
         right: 33.5%;
@@ -372,7 +373,8 @@ height: 40px;
         align-items: center;
     }
     .q4-layout img{
-        width:80% ;
+        width:150px ;
+        height: 150px;
     }
     .ans-layout4{
         padding-left: 5%;
